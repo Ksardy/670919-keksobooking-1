@@ -9,4 +9,7 @@ build/
 node_modules/
 npm-debug.log*
 Thumbs.db
+<<<<<<< HEAD
+=======
 .vscode/
+>>>>>>> aa5bfecb9164544900a84cb91a76100685002cce
