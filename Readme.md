@@ -1,8 +1,13 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
+<<<<<<< HEAD
 * Студент: [Роман Козлачков](https://up.htmlacademy.ru/javascript/14/user/670919).
 * Наставник: [Евгений Фаллер]
 (https://up.htmlacademy.ru/javascript/14/user/505933).
+=======
+* Студент: [Роман Козлачков](https://up.htmlacademy.ru/javascript/15/user/670919).
+* Наставник: `Неизвестно`.
+>>>>>>> aa5bfecb9164544900a84cb91a76100685002cce
 
 ---
 

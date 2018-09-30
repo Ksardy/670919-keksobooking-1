@@ -1,6 +1,10 @@
 {
   "name": "keksobooking",
+<<<<<<< HEAD
   "version": "14.0.0",
+=======
+  "version": "15.0.0",
+>>>>>>> aa5bfecb9164544900a84cb91a76100685002cce
   "private": true,
   "description": "Личный проект «Кексобукинг» от HTML Academy",
   "repository": {
