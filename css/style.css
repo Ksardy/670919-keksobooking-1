@@ -1059,10 +1059,6 @@ fieldset {
   line-height: 40px;
 
   display: block;
-<<<<<<< HEAD
-
-=======
->>>>>>> aa5bfecb9164544900a84cb91a76100685002cce
   content: "×";
 
   color: #000000;
@@ -1192,12 +1188,7 @@ fieldset {
   background-color: rgba(0, 0, 0, 0.8);
 }
 
-<<<<<<< HEAD
 .success__message {
-=======
-.success__message,
-.error__message {
->>>>>>> aa5bfecb9164544900a84cb91a76100685002cce
   position: relative;
 
   color: #ffffff;
